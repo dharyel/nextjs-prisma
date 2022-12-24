@@ -1,5 +1,5 @@
 ---
-title: Teste ed
+title: Teste
 description: A NextJS app using Prisma with a PostgreSQL database
 tags:
   - next
